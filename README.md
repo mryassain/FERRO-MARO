@@ -1,7 +1,6 @@
 # FERRO-MARRO
 FERRO-MARRO
-ONCF  "National Office for Trains Morocco (2008-2009): 
-  Project: Create software FERRO-MARO V1: 
+ONCF  "National Office for Trains Morocco (2008-2009) - software FERRO-MARO V1: 
   
  	1 - Modeling the Problem of scheduling for trains under security constraints.
   
