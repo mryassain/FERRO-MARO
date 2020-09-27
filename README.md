@@ -2,7 +2,7 @@
 FERRO-MARRO
 ONCF(2008-2009) - software FERRO-MARO V1: 
   
- 	1 - Modeling the Problem of scheduling for trains under security constraints.
+ 	1 - Modeling scheduling problem for trains under security constraints.
   
  	2 - Detection of conflicts between trains.
   
